@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/Evacuacion-Antofagasta-Web/static/css/main.5f361e03.chunk.css",
-    "main.js": "/Evacuacion-Antofagasta-Web/static/js/main.8aeff549.chunk.js",
-    "main.js.map": "/Evacuacion-Antofagasta-Web/static/js/main.8aeff549.chunk.js.map",
+    "main.js": "/Evacuacion-Antofagasta-Web/static/js/main.807aaef0.chunk.js",
+    "main.js.map": "/Evacuacion-Antofagasta-Web/static/js/main.807aaef0.chunk.js.map",
     "runtime-main.js": "/Evacuacion-Antofagasta-Web/static/js/runtime-main.5644d9eb.js",
     "runtime-main.js.map": "/Evacuacion-Antofagasta-Web/static/js/runtime-main.5644d9eb.js.map",
-    "static/js/2.662ec1bd.chunk.js": "/Evacuacion-Antofagasta-Web/static/js/2.662ec1bd.chunk.js",
-    "static/js/2.662ec1bd.chunk.js.map": "/Evacuacion-Antofagasta-Web/static/js/2.662ec1bd.chunk.js.map",
+    "static/css/2.e4346227.chunk.css": "/Evacuacion-Antofagasta-Web/static/css/2.e4346227.chunk.css",
+    "static/js/2.faadbe6d.chunk.js": "/Evacuacion-Antofagasta-Web/static/js/2.faadbe6d.chunk.js",
+    "static/js/2.faadbe6d.chunk.js.map": "/Evacuacion-Antofagasta-Web/static/js/2.faadbe6d.chunk.js.map",
     "index.html": "/Evacuacion-Antofagasta-Web/index.html",
-    "precache-manifest.9c7f2828a13aa20bf1e0570543d030f5.js": "/Evacuacion-Antofagasta-Web/precache-manifest.9c7f2828a13aa20bf1e0570543d030f5.js",
+    "precache-manifest.ae17d9421d1df56be9956c42c43f318d.js": "/Evacuacion-Antofagasta-Web/precache-manifest.ae17d9421d1df56be9956c42c43f318d.js",
     "service-worker.js": "/Evacuacion-Antofagasta-Web/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/Evacuacion-Antofagasta-Web/static/css/2.e4346227.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/Evacuacion-Antofagasta-Web/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.662ec1bd.chunk.js.LICENSE.txt": "/Evacuacion-Antofagasta-Web/static/js/2.662ec1bd.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Evacuacion-Antofagasta-Web/static/media/logo.5d5d9eef.svg"
+    "static/js/2.faadbe6d.chunk.js.LICENSE.txt": "/Evacuacion-Antofagasta-Web/static/js/2.faadbe6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5644d9eb.js",
-    "static/js/2.662ec1bd.chunk.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.faadbe6d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.8aeff549.chunk.js"
+    "static/js/main.807aaef0.chunk.js"
   ]
 }
