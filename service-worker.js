@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Evacuacion-Antofagasta-Web/precache-manifest.ae17d9421d1df56be9956c42c43f318d.js"
+  "/Evacuacion-Antofagasta-Web/precache-manifest.b183f62370a97e17a447b92d5b83dc52.js"
 );
 
 self.addEventListener('message', (event) => {
