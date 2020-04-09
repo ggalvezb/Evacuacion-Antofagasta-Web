@@ -13,11 +13,13 @@ function App() {
         <Header className='header-color' title={<Link style={{textDecoration:'none',color:'white'}}to='/'>Resultados Simulacion Evacuación Antofagasta</Link>} scroll>
             <Navigation>
                 <Link to="/landingpage">Inicio</Link>
+                <Link to="/Flow_scape">Gif Escape</Link>
             </Navigation>
         </Header>
         <Drawer title="Menu">
             <Navigation>
                 <Link to="/landingpage">Inicio</Link>
+                <Link to="/Flow_scape">Gif Escape</Link>
             </Navigation>
         </Drawer>
         <Content>
